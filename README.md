@@ -13,6 +13,17 @@ This is a Python-based inventory management system for a small store that helps 
 - Low-stock Alerts: Identifies which product is low on stock and how many units are still remaining.
 - Data Persistence: Save and load inventory data using the JSON file.
 
+## 📸 Application Screenshots
+
+### Main Menu
+![StockWise Main Menu](main-menu.png)
+
+### Inventory Report
+![StockWise Inventory Report](inventory-report.png)
+
+### Low-Stock Alerts
+![StockWise Low-Stock Alerts](low-stock-report.png)
+
 ## 🛠️ Technologies Used
 
 Python - Application development and logic.
