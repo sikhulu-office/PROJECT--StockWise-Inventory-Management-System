@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Notebook",
+    "price": 25.0,
+    "quantity": 10
+  },
+  {
+    "name": "Pen",
+    "price": 5.0,
+    "quantity": 20
+  },
+  {
+    "name": "Eraser",
+    "price": 6.0,
+    "quantity": 15
+  },
+  {
+    "name": "Pencil",
+    "price": 5.0,
+    "quantity": 7
+  },
+  {
+    "name": "Ruler",
+    "price": 10.0,
+    "quantity": 10
+  },
+  {
+    "name": "Sharpener",
+    "price": 8.0,
+    "quantity": 17
+  },
+  {
+    "name": "Stapler",
+    "price": 30.0,
+    "quantity": 11
+  },
+  {
+    "name": "calculator",
+    "price": 45.5,
+    "quantity": 13
+  }
+]
